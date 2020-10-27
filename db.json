@@ -1,1 +1,14 @@
-
+{
+  "employees": [
+    {
+      "firstname": "John",
+      "age": 30,
+      "mail": "john@gmail.com"
+    },
+    {
+      "firstname": "Jimmy",
+      "age": 25,
+      "mail": "jimmy@gmail.com"
+    }
+  ]
+}
